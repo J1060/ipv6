@@ -1,0 +1,2 @@
+BMC MAC address : 0c:c4:7a:4d:b7:4a
+System LAN1 MAC address : 0c:c4:7a:4d:bc:46
